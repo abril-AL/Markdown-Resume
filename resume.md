@@ -1,77 +1,58 @@
 ---
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
-keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+margin-left: 0cm
+margin-right: 0cm
+margin-top: 0cm
+margin-bottom: 0cm
+title: Abril Aguilar Lopez
+description-meta: 'Abril Aguilar Resume '
 author:
-- I am the author
-subject: 'Subject'
+- Abril Aguilar Lopez
+subject: 'pleasehireme'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [ abril_al@ucla.edu ] . [ 760 975 9330 ] . [https://github.com/abril-AL](https://github.com/abril-AL)] 
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+#### Computer Science student interested in computer architecture and BCI signal processing.  Able to effectively self-manage for independent projects, as well as collaborate as part of a productive team. My intrests include computer archtecture and low level programming, as well as brain computer interface programs.
 
-## Skills
+## Skills   ```programming``` ```databases``` ```linux systems administration``` ```project management``` ```version control```
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
-
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+**Programming**: Javascript, Node.js, React/React Native, C/C++, Python, Git, HTML&CSS
+**Databases**: Firebase Realtime Database, MongoDB
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Co-Researcher, University of California, San Diego
 
-start-date-end-date, City, State and remote
+2019 – February 2021, Escondido, California
 
-- Things you did/do here
-- More things that you do here.
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-### Senior Software Architect, Hooli
-
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+- Worked with a team of co-researches on the UCSD, CREATE project entitles CS-LISTEN, a youth proprietary action research project to investigate the lack of diversity of K-12 computer science education. 
+- Our research also provided surveyed school with tangible changes to respond to our findings, which are still in use.
 
 ## Awards & Recognition
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+- Winner NCWIT AIC National Honorable Mention 2019
+- Winner NCWIT AIC Regional Award 2020
 
 ## Education
 
-### Masters in BS, Example University
+### Bachelors of Science, University of California, Los Angeles
+- Bachelors of Science, Computer Science, May 2025
+  - Member of Crux, IEEE, and SWE
+  - Selected Coursework: Software Construction, Operating Systems Principles, Data Abstraction, Data Structures and Algorithms, Principles and Practices of Computing
+  
+## Projects
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+- BCI Tinder
+  - Crux at UCLA, 2022-2023
+    - *Implemented a brain computer interface that can detect spikes in attraction based off alpha waves*
+    - *Implemented a varietey of techniques to isolate alpha waves, including FFT algorith and bandpass filters, and multiple preprocessesing filters*
+    - *Worked as the leader of my teams programming focused members, was able to take and assign tasks, as well as manage our remote git repository*
+    - Technologies used: Open BCI GUI, Open BCI Headset and Cyton Board, Python ( including neurokit 2.0 and numpy library)
+- Micromouse
+  - IEEE at UCLA, 2022-2023
+    - *Aimed to build an autonomous robot witht the ability to solve a 16x16 maze*
+    - *Used a variety of techniques and disciplines, ie. PID algorithms, maze solving algorithms, and electrical engineering*
+    - *Allowed me to pick up skills in lower level interactions between sotware and hardware, as well as creating and organizing board schematics and work as a team leader
+    - Technologies used: Eagle, STM Cube IDE, C/C++, variety of parts for creating the mouse board
+- Substance Tracker App
+  - UCLA, 2022-2023
+    - Buit a 
