@@ -16,6 +16,7 @@ subject: 'pleasehireme'
 ## Skills   ```programming``` ```databases``` ```linux systems administration``` ```project management``` ```version control```
 
 **Programming**: Javascript, Node.js, React/React Native, C/C++, Python, Git, HTML&CSS
+
 **Databases**: Firebase Realtime Database, MongoDB
 
 ## Experience
@@ -55,4 +56,6 @@ subject: 'pleasehireme'
     - Technologies used: Eagle, STM Cube IDE, C/C++, variety of parts for creating the mouse board
 - Substance Tracker App
   - UCLA, 2022-2023
-    - Buit a 
+    - *Built an ios app for users to track and view substance use, data is stored and accessed on a remote database, requireing user authentification*
+    - *Worked in a team setting and efficiently create and assigned front end and back end specfic tasks. We also make use of version control with git for concurrency *
+    - Technologies Used: JavaScript, Node.js, React, React Native, Firebase, Expo Client, Git, GitHub
