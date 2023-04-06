@@ -1,9 +1,9 @@
 # Markdown-Resume
 
-Basically, i *didnt* want to make it in docs
-**I love markdown**
+#### Dont look unless u want me
 
-This is taken from this [repository](https://github.com/vidluther/markdown-resume)
-basically it goes md->html->pdf 
-using wkhtml and pandoc ( make sure to have those installed )
-then my make file should handle the big scary commands and create a pdf
+#### Basically, i didnt want to make it in docs bc **Im a markdown nerd**
+
+##### This is mostly taken from this [repository](https://github.com/vidluther/markdown-resume)
+- it goes `md->html->pdf` using: `wkhtml` and `pandoc` ( make sure to have those installed )
+- then my make file should handle the big scary commands and create a pdf ( use `make` )
