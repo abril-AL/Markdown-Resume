@@ -1,5 +1,8 @@
 # Markdown-Resume
 
+### You can find the pdf version of my resume at ./resume.pdf
+Theres also a markdown version available at ./resume.md
+
 #### Dont look unless u want me
 
 #### Basically, i didnt want to make it in docs bc **Im a markdown nerd**
