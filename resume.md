@@ -56,6 +56,6 @@ subject: 'pleasehireme'
     - Technologies Used: `JavaScript`, `Node.js`, `React`, `React Native`, `Firebase`, `Expo Client`, `Git`, `GitHub`
 
 ## Awards & Recognition
-
-- Winner NCWIT AIC National Honorable Mention 2019
-- Winner NCWIT AIC Regional Award 2020
+- National Center for Women & Information Technology 
+  - Winner AIC National Honorable Mention 2019
+  - Winner AIC Regional Award 2020
