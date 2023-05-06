@@ -9,15 +9,16 @@ author:
 - Abril Aguilar Lopez
 subject: 'pleasehireme'
 ---
-###### [ abril_al@ucla.edu ] . [ 760 975 9330 ] . [https://github.com/abril-AL](https://github.com/abril-AL)] 
+###### [ abril_al@ucla.edu ] . [ 760 975 9330 ] . [ [Github: abril-AL](https://github.com/abril-AL) ] . [[LinkedIn: Abril Aguilar-Lopez](https://www.linkedin.com/in/abril-aguilar-lopez/) ]
 
-#### Computer Science student interested in computer architecture and BCI signal processing.  Able to effectively self-manage for independent projects, as well as collaborate as part of a productive team. My intrests include computer archtecture and low level programming, as well as brain computer interface programs.
+**Computer Science student interested in using computer science in interdisciplinary fields and projects. I am able to effectively self-manage in independent projects, as well as collaborate productively in a team. My intrests include computer architecture and low level programming, as well as brain computer interface programs and signal processing.**
 
-## Skills   ```programming``` ```databases``` ```linux systems administration``` ```project management``` ```version control```
 
-**Programming**: Javascript, Node.js, React/React Native, C/C++, Python, Git, HTML&CSS
+## Skills   ```programming``` ```communication``` ```project management``` ```version control``` 
 
-**Databases**: Firebase Realtime Database, MongoDB
+
+**Proficient**: Javascript, Node.js, React/React Native, C/C++, Python, Git, HTML&CSS    
+**Familiar**: Assembly, Lisp, Bootstrap, MatLab  **Databases**: Firebase Realtime Database, MongoDB
 
 ## Experience
 
@@ -40,19 +41,19 @@ subject: 'pleasehireme'
 - BCI Tinder
   - Crux at UCLA, 2022-2023
     - *Implemented a brain computer interface that can detect spikes in attraction based off alpha waves*
-    - *Implemented a varietey of techniques to isolate alpha waves, including FFT algorith and bandpass filters, and multiple preprocessesing filters*
+    - *Implemented a varietey of techniques to isolate alpha waves, including FFT algorithm and bandpass filters, and multiple preprocessesing filters*
     - *Worked as the leader of my teams programming focused members, was able to take and assign tasks, as well as manage our remote git repository*
-    - Technologies used: Open BCI GUI, Open BCI Headset and Cyton Board, `Python` ( `neurokit 2.0` and `numpy` library)
+    - Technologies used: Open BCI GUI, Open BCI Headset and Cyton Board, `Python` (`neurokit 2.0` and `numpy`), MatLab
 - Micromouse
   - IEEE at UCLA, 2022-2023
     - *Aimed to build an autonomous robot witht the ability to solve a 16x16 maze*
-    - *Used a variety of techniques and disciplines, ie. PID algorithms, maze solving algorithms, and electrical engineering*
-    - *Allowed me to pick up skills in lower level interactions between sotware and hardware, as well as creating and organizing board schematics and work as a team leader*
+    - *Used a variety of techniques and disciplines, ie. PID algorithms, maze solving algorithms, and electrical engineering practices*
+    - *Allowed me to pick up skills in lower level interactions between software and hardware, as well as creating and organizing board schematics, and working as a team leader*
     - Technologies used: `Eagle`, `STM Cube IDE`, `C/C++`, variety of parts for creating the mouse PCB board
 - Substance Tracker App
   - UCLA, 2022-2023
-    - *Built an ios app for users to track and view substance use, data is stored and accessed on a remote database, requireing user authentification*
-    - *Worked in a team setting and efficiently create and assigned front end and back end specfic tasks. We also make use of version control with git for concurrency *
+    - *Built an ios app for users to track and view substance use, data is stored and accessed on a remote database, requiring user authentification*
+    - *Worked in a team setting and efficiently create and assigned front end and back end specfic tasks. We also make use of version control with git for development concurrency *
     - Technologies Used: `JavaScript`, `Node.js`, `React`, `React Native`, `Firebase`, `Expo Client`, `Git`, `GitHub`
 
 ## Awards & Recognition
