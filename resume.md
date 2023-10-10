@@ -46,12 +46,12 @@ subject: 'pleasehireme'
     - Technologies used: Open BCI GUI, Open BCI Headset and Cyton Board, `Python` (`neurokit 2.0` and `numpy`), MatLab
 - Micromouse - IEEE at UCLA, 2022-2023
     - *Aimed to build an autonomous robot with the ability to solve a 16x16 maze*
-    - *Used a various techniques and disciplines, ie. PID algorithms, maze solving algorithms, and electrical engineering practices*
-    - *I acquired  skills in lower level interactions between software and hardware, as well as creating and organizing board schematics, and working as a team leader*
+    - *Used various techniques and disciplines, ie. PID algorithms, maze solving algorithms, and electrical engineering practices*
+    - *I acquired skills in lower level interactions between software and hardware, as well as creating and organizing board schematics, and working as a team leader*
     - Technologies used: `Eagle`, `STM Cube IDE`, `C/C++`, variety of parts for creating the mouse PCB board
 - Substance Tracker App - UCLA, 2022-2023
     - *Developed an ios app for users to track and view substance use, with data stored and accessed on a remote database, requiring user authentification*
-    - *Worked in a team setting, efficiently creating and assigning front-end and back-end specfic tasks, utilizing version control with git for development concurrency *
+    - *Worked in a team setting, efficiently creating and assigning front-end and back-end specfic tasks, utilizing version control with git for development concurrency*
     - Technologies Used: `JavaScript`, `Node.js`, `React`, `React Native`, `Firebase`, `Expo Client`, `Expo Go` , `Git`, `GitHub`
 
 ## Awards & Recognition
